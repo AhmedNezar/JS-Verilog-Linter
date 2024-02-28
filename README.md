@@ -39,7 +39,7 @@ Select a Verilog file using the file input.
 The linter will perform various checks on the provided Verilog code.
 # Output Display:
 
-# Detected errors will be displayed in the web interface.
+Detected errors will be displayed in the web interface.
 
 # PDF Report:
 A PDF report summarizing linting results can be generated and downloaded.
